@@ -1,4 +1,4 @@
-<H3> Name : Prasanth E A</H3>
+<H3> Name : Prasanth E </H3>
 <H3> Register No : 212221233002</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 02-09-2024</H3>
